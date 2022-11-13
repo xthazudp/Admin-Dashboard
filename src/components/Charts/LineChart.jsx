@@ -1,7 +1,7 @@
 import React from 'react';
 
 const LineChart = () => {
-  return <div>Button</div>;
+  return <div>LineChart</div>;
 };
 
-export default Button;
+export default LineChart;
